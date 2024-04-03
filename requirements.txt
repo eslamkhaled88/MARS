@@ -1,0 +1,17 @@
+pip install youtube-transcript-api
+pip install tqdm
+pip install faster-whisper
+pip install sentence-transformers
+pip install gradio
+pip install pydub
+google-auth==1.28.0
+google-auth-oauthlib==0.4.4
+google-api-python-client==2.0.2
+pandas==1.2.4
+openai==0.10.2
+numpy==1.20.2
+requests==2.25.1
+python-docx==0.8.10
+xlrd==2.0.1
+pip install difflip
+pip install requests 
